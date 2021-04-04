@@ -25,7 +25,7 @@
 * ![React](https://img.shields.io/badge/-React-000?&logo=React)
 * ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 * ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
-* ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+* ![ANGULAR](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahbubulalamrifat&label=Profile%20views&color=0e75b6&style=social" alt="mahbubulalamrifat" /> </p>
