@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Vue Js (3 & 2), Laravel(8 & 9), Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahbubulalamrifat?tab=repositories](https://github.com/mahbubulalamrifat?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mahbubulalamrifat?tab=repositories)
 
 - 💬 Ask me about **vue, laravel, js, docker**
 
 - 📫 How to reach me **mahbubulalamrifat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12h_kZ2pGLOF13mHJp9MmCwB4QOVl2g43/view?usp=sharing](https://drive.google.com/file/d/12h_kZ2pGLOF13mHJp9MmCwB4QOVl2g43/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12h_kZ2pGLOF13mHJp9MmCwB4QOVl2g43/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
