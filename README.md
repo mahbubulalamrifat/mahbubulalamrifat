@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CP Five Star](https://5star.cpbangladesh.com/login)
 
-- 🌱 I’m currently learning **Vue Js (3 & 2), Laravel(8 & 9), Java**
+- 🌱 I’m currently using **Vue Js (3 & 2), Laravel(8 & 9), React, React Native, ElectronJS**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/mahbubulalamrifat?tab=repositories)
 
